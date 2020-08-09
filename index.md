@@ -1,8 +1,11 @@
 <img src="https://avatars0.githubusercontent.com/u/69323094?s=400&u=f9a9648c910890e8858f6cf33e21f6afa50635f7&v=4" />
 ### About Me
-من الهام کرمیان هستم 21 ساله از تهران. من دیپلم تجربی دارم و در حال حاضر دانشجوی مقطع کارشناسی مهندسی کامپیوتر در دانشگاه پیام نور تهران شمال هستم.
+I am Elham Karamiyan. 
+I am 21 years old 
+I live in Tehran 
+I study computer engineering in PNU university North Tehran
 ### Skills
- + تایپ Word , تدریس خصوصی
+ +Tayping in Word
 .
 .
 .
