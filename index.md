@@ -5,9 +5,10 @@ I am 21 years old
 I live in Tehran 
 I study computer engineering in PNU university North Tehran
 ### Skills
- +Tayping in Word
+ +Typing in Word
 .
 .
 .
 ###Contact Me
 - Gmail:Elham.karamiyan78@gmail.com
+[Resume](/assessment/_CV_Checklist_AR_3983.pdf)
