@@ -11,4 +11,3 @@ I study computer engineering in PNU university North Tehran
 .
 ###Contact Me
 - Gmail:Elham.karamiyan78@gmail.com
-[Resume](/assessment/CV_Checklist_AR_3983.pdf)
